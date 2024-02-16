@@ -1,0 +1,32 @@
+/* Menu.css */
+
+.menu {
+  background-color: #0d1218;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu div {
+  display: flex;
+  align-items: center;
+  background-color: #161b22;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.menu input {
+  flex: 1;
+  border: none;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.menu button {
+  background-color: transparent;
+  border: none;
+  color: #007aff;
+  font-size: 16px;
+  padding: 8px 15px;
+  border-radius: 8px;
+}
